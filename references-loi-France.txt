@@ -1,0 +1,16 @@
+Références aux articles du Code électoral
+
+L224-4 : métropole de Lyon : prime majo 50% puis restant des sièges à la proportionnelle avec plus forte moyenne
+L224-5 : métropole de Lyon : second tour. En cas d'égalité, liste dont les candidats ont la moyenne d'âge la plus élevée
+L224-6 : métropole de Lyon : critère des 5% des suffrages exprimés pour l'admissibilité à la répartition des sièges
+
+L262 : prime majoritaire dans les communes de 1000 habitants et plus
+
+L295 : sénatoriales : dans les départements où sont élus 3 sénateurs ou plus, représentation proportionnelle suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel. 
+
+R169 : sénatoriales : si même moyenne et même nombre de suffrages, alors c'est le candidat le plus âgé qui emporte le siège.
+
+Européennes : loi n° 77-729. Article 3 alinéa 2 : Les sièges sont répartis entre les listes ayant obtenu au moins 5 % des suffrages exprimés à la représentation proportionnelle suivant la règle de la plus forte moyenne. Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué à la liste dont la moyenne d'âge est la moins élevée.
+
+Simu ministère de l'intérieur : https://interieur.gouv.fr/Archives/Archives-elections/Elections-senatoriales-20202/Elections-senatoriales-2020-Dossier-de-presse/Annexe-4-Repartition-des-sieges-au-scrutin-proportionnel-selon-la-methode-de-la-plus-forte-moyenne
+
