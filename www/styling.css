@@ -1,0 +1,21 @@
+/* the box where we input the votes gained is with id "suffrages".
+ * We add a border around it: */
+#suffrages {
+	border: 5px solid #5eed81; /* light green */
+	background-color: #afe7bd; /* semi-transparent light green in the same hue */
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.shiny-output-error-validation {
+ color: #ff0000;
+ font-weight: bold;
+}
+
+.center {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
